@@ -3,10 +3,12 @@
     {
       "source": "/wp-login",
       "destination": "https://www.hareodyhome.com/wp-login.php"
-    },
-    {
+    }
+  ]
+  "redirects": [
+      {
       "source": "/wp-admin/:path*",
       "destination": "https://www.hareodyhome.com/wp-admin/:path*"
-    },
+    }
   ]
 }
