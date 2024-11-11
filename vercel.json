@@ -1,0 +1,8 @@
+{
+  "redirects": [
+    {
+      "source": "/wp-admin",
+      "destination": "https://www.hareodyhome.com/wp-login.php"
+    }
+  ]
+}
